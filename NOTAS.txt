@@ -1,0 +1,10 @@
+
+Api usada
+https://pokeapi.co/
+
+
+1-el evento de click lo hace el formulario
+arreglar eso
+
+2-estudiar lo de append chil para poder 
+renderizar bien la info y las imagenes
